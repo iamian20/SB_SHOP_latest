@@ -1,17 +1,18 @@
 @import url();
-body{
+body
+{
 
 	font-family: 'Poppins', sans-serif;
 	font-weight: 300;
 	line-height: 1.7;   
 	color: #a5410f;
 	background-color: #bdbfc5;
-    background-image: url("bg\ 2.jpg");
+
+    background-image: url("/images/bg\ 2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 
- 
   
  
 }
@@ -111,7 +112,7 @@ display: none;
     background-repeat: no-repeat;
     background-position: center;
   border-radius: 6px;
-  -webkit-transform-style: preserve-3d;
+ -webkit-transform-style: preserve-3d;
 
 }
 .card-back {

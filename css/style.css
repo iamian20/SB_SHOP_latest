@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
+body {
+  background: url("/images/bg\ 2.jpg") no-repeat fixed;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
 body::before {
   display: block;
   content: "";
